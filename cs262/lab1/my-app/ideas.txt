@@ -1,0 +1,12 @@
+Germaine Hounakey 
+Date: 9/2/2022
+Course: cs262
+
+
+
+Excercise 1.1 -- Possible team projects 
+
+1). Workout and Excercise app, and Diet and nutrition app: there are many fitness apps out there, however this particlure fitness apps allows the user to select the nutrition part of their fitness journey. We will provide low calories meals, snack to make at home for the user. Some essential feature of this fitness app includes Geoloccation, sign in/ sign up sheet, social media sharing, psuh notifications, AI-based chatbox. Potentil name is RESET  app. 
+
+
+2). An app that can tell your weight just by scanning you whole body. 

@@ -1,0 +1,46 @@
+Germaine Hounakey 
+Date: 9/2/2022
+Course: cs262
+
+
+
+Excercise 1.2 -- 
+
+1). Demographics--
+	a). senior 
+	b). BCS
+	c). cs 112 (A-) & cs 212(B-) 
+
+
+2). Technical 
+	a). JavaScript application --- No I have not worked on.  
+	   - SQL database systems-- no I have not worked on. 
+	
+	
+	b). Yes I have used GitHub but only for uploading projects with it. 
+	    - I am femilar with but have not used
+	    - no I have not heard of Trello
+	c). Fitness App 
+3). Personality 
+	a). Openness --- 54%
+	    Conscientiousness --- 62.5%
+	    Extraversion --- 50%
+	    Agreeableness --- 60%
+	    Neuroticism--- 35%
+	    
+	b). People I WANT to work with
+	- David Mirakian 
+	-Justin Michele
+	-Daniela Conterese
+	-Luke Huisman 
+	-Mathew Walstra 
+	
+	c). Peopel I DO NOT WANT to work with 
+	 - Haim Hong
+	 -Joshua Dewindt 
+	 -Seongchan cho
+	 -Seongchan choi
+	 -Adam Zentner 
+	 -Jistin Voss
+	 -Tyler Voss
+	 
