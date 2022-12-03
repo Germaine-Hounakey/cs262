@@ -1,0 +1,11 @@
+Changes I made:
+    - global.js, home.js
+        buttonv -> month_button
+    - NOVEMBEREVENTS.md
+        thru - through
+        engagin - engaging
+        huess - hues
+
+Changes I was not able to do 
+ - home.js
+
